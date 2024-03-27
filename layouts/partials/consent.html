@@ -176,7 +176,6 @@
           while (c.charAt(0)==' ') c = c.substring(1,c.length);
           if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
       }
-      return "1";
   }
   function eraseCookie(name) {
       createCookie(name,"",-1);
@@ -212,6 +211,7 @@
           }
       });
   }
+
   function setConsentInputs(consentValue) {
       var elements = document.querySelectorAll('#consent-overlay input:not([disabled])');
       elements.forEach(function(el,index) {
@@ -219,8 +219,10 @@
           else el.checked = false;
       });
   }
+
   function setConsentValue() {
       var elements = document.querySelectorAll('#consent-overlay input:not([disabled])');
+
       var consentValue = "";
       elements.forEach(function(el) {
           if(el.checked) consentValue = consentValue + "1";
@@ -239,7 +241,11 @@
       setConsentInputs(consentValue);
       loadConsentScripts(consentValue);
   } else {
+    var elements = document.querySelectorAll('#consent-overlay input:not([disabled])');
+
+    if (elements != null && elements.length > 0) {
       document.getElementById('consent-notice').style.display = 'block';
+    }
   }
   var elements = document.querySelectorAll('.manage-consent');
   elements.forEach(function(el) {
