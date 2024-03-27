@@ -1,5 +1,5 @@
 items:
-  - title: Google Anaytics (functional)
-    description: This code gives us insight into the number of people that visit our website, where they are from and what they are clicking on.
+  - title: Functional Cookies
+    description: These cookies are required to track your acceptance of these preferences.
     is_functional: true
-    script_file: ga.js
+    script_file: script.js
