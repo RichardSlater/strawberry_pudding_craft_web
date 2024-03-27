@@ -1,0 +1,4 @@
+baseURL = 'https://spc.scetrov.live/'
+languageCode = 'en-us'
+title = 'Strawberry Pudding Craft'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
