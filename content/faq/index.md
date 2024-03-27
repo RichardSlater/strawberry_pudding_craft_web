@@ -5,6 +5,7 @@ draft = false
 type = 'page'
 layout = 'index'
 featured_image = 'images/hero-faq.jpeg'
+menus = 'main'
 +++
 
 ## Can I join the server?
