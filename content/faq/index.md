@@ -16,6 +16,6 @@ Our server is whitelisted requiring approval from Quadrell and Scetrov for admis
 
 We encourage the use of modded clients, and the server is lightly modded; please see [Connect](/connect) for a list of recommended mods and mods that we find useful.
 
-## Am I allowed to greif?
+## Am I allowed to grief?
 
-We use Towny to protect the wilds and player created towns alike, using hacks and glitches to greif the server is a violation of our [terms of use](/tou).
+We use Towny to protect the wilds and player created towns alike, using hacks and glitches to grief the server is a violation of our [terms of use](/tou).
