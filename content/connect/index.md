@@ -5,6 +5,7 @@ draft = false
 featured_image = 'images/hero-connect.jpeg'
 type = 'page'
 layout = 'page'
+menus = 'main'
 +++
 
 Our server is whitelisted requiring approval from Quadrell and Scetrov for admission to the whitelist. If you would like to join us please reach out on [Quadrell's Discord](https://discord.gg/MjC9EXn899).

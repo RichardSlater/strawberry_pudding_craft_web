@@ -5,6 +5,7 @@ draft = false
 featured_image = 'images/hero-catch-up.jpeg'
 type = 'page'
 layout = 'page'
+menus = 'main'
 +++
 
 Catch up on the latest happening on Strawberry Pudding Craft on Twitch and YouTube:
