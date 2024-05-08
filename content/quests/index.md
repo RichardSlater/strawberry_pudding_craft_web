@@ -3,8 +3,8 @@ title = 'Quests'
 date = 2024-05-08T13:28:00Z
 draft = false
 type = 'page'
-layout = 'index'
-featured_image = 'images/hero-quests.jpeg'
+layout = 'page'
+featured_image = 'images/hero-quests.png'
 menus = 'main'
 +++
 

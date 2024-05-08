@@ -3,7 +3,7 @@ title = 'Land'
 date = 2024-05-18T12:14:07Z
 draft = false
 type = 'page'
-layout = 'index'
+layout = 'page'
 featured_image = 'images/hero-land.jpeg'
 menus = 'main'
 +++
