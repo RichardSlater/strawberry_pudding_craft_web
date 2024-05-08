@@ -1,14 +1,14 @@
 +++
 title = 'Quests'
-date = 2024-05-08T13:28:00Z
+date = 2024-05-08T12:28:00Z
 draft = false
+featured_image = 'images/hero-quests.png'
 type = 'page'
 layout = 'page'
-featured_image = 'images/hero-quests.png'
 menus = 'main'
 +++
 
-Quests are the the mechanism for how to earn Strawberries (🍓, our in-game currency). To get started, you must visit the spawn town with the following command:
+Quests are the mechanism for how to earn Strawberries (🍓, our in-game currency). To get started, you must visit the spawn town with the following command:
 
 ```
 /spawn spawn_town

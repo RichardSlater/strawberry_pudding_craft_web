@@ -8,3 +8,5 @@ type = 'index'
 
 Welcome to Strawberry Pudding Craft, we are a vanilla-like Minecraft server with RPG elements such as daily quests, land claims.
 
+**Important: Microsoft and Mojang reatain all intelectual property rights associated with the Minecraft the game, this server is not an official Minecraft server.**
+

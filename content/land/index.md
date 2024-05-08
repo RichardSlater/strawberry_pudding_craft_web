@@ -1,18 +1,18 @@
 +++
 title = 'Land'
-date = 2024-05-18T12:14:07Z
+date = 2024-05-08T12:28:00Z
 draft = false
+featured_image = 'images/hero-land.png'
 type = 'page'
 layout = 'page'
-featured_image = 'images/hero-land.jpeg'
 menus = 'main'
 +++
 
 Land is the mechanism Strawberry Pudding Craft uses to protect player builds, spawn, and the wild. Land claims reduce the chances of bad actors griefing the server and are integral to the economy.
 
-All players are able to claim lands using Strawberries (🍓, our in-game currency) to create a Town; you can earn 🍓 by completing quests in-game; you will then need to transfer 🍓 into the town's bank account to be able to pay upkeep.
+All players can claim lands using Strawberries (🍓, our in-game currency) to create a Town; you can earn 🍓 by completing quests in-game; you will then need to transfer 🍓 into the town's bank account to be able to pay upkeep.
 
-The land system is built using Towny; you can read the [complete player guide](https://github.com/TownyAdvanced/Towny/wiki/How-Towny-Works) on their GitHub Wiki.
+We built the land system using Towny; you can read the [complete player guide](https://github.com/TownyAdvanced/Towny/wiki/How-Towny-Works) on their GitHub Wiki.
 
 ## Creating a Town
 

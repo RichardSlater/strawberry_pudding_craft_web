@@ -18,6 +18,8 @@ For paid accounts, you'll be charged on a monthly basis. You can cancel anytime,
 
 The Terms of Service, Strawberry Pudding Craft itself, and our prices can change at any time. We'll warn you 30 days in advance of any price changes. We'll try to warn you about major changes to the Terms of Service or Strawberry Pudding Craft, but we make no guarantees.
 
+Microsoft and Mojang reatain all intelectual property rights associated with the Minecraft the game, this server is not an official Minecraft server.
+
 That's the basic idea, but You must read through the entire Terms of Service below and agree with all the details before You use any of our sites (whether or not you have created an account).
 
 ### Reuse
@@ -125,3 +127,5 @@ The Terms constitute the whole legal agreement between You and Richard Slater an
 You agree that if Richard Slater does not exercise or enforce any legal right or remedy which is contained in the Terms (or which Richard Slater has the benefit of under any applicable law), this will not be taken to be a formal waiver of Richard Slater's rights and that those rights or remedies will still be available to Richard Slater.
 
 Richard Slater shall not be liable for failing or delaying performance of its obligations resulting from any condition beyond its reasonable control, including but not limited to, governmental action, acts of terrorism, earthquake, fire, flood or other acts of God, labor conditions, power failures, and Internet disturbances.
+
+Microsoft and Mojang reatain all intelectual property rights associated with the Minecraft the game, this server is not an official Minecraft server.
